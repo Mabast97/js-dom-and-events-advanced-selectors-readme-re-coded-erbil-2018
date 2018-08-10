@@ -10,4 +10,7 @@
    return ($('img:last'));
  }
  
- 
+ function ninjaBabySelector ()
+ {
+   $('#')
+ }
