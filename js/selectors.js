@@ -14,3 +14,8 @@
  {
    $('#baby-ninja');
  }
+ 
+ function divSelector ()
+ {
+   $('.')
+ }
