@@ -5,4 +5,7 @@
    return paragraphs;
  }
  
- 
+ function lastImageSelector()
+ {
+   return ($('img:last'));
+ }
