@@ -17,5 +17,7 @@
  
  function divSelector ()
  {
-   $('.')
+   return $('.pics');
  }
+ 
+ function 
